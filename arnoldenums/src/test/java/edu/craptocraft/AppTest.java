@@ -1,4 +1,4 @@
-package arnoldenums;
+package edu.craptocraft;
 
 import static org.junit.Assert.assertTrue;
 
